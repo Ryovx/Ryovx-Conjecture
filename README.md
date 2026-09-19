@@ -1,4 +1,5 @@
 <div align="center">
+   
 # The Ryovx Conjecture
 
 **A Novel Discrete Dynamical System Combining Digit Reversal with Parity-Dependent Arithmetic Operations**
