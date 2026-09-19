@@ -38,28 +38,28 @@
 >
 > Any use of this work in further research, publications, or derivative systems
 > must explicitly acknowledge that the conjecture remains open. See
-> [Status](#-current-status) below.
+> [Status](#current-status) below.
 
 ---
 
 ## 📖 Table of Contents
 
-- [What is the Ryovx Conjecture?](#-what-is-the-ryovx-conjecture)
-- [The Map T](#-the-map-t)
-- [Statement of the Conjecture](#-statement-of-the-conjecture)
-- [Examples](#-examples)
-- [Computational Verification](#-computational-verification)
-- [Theoretical Framework](#-theoretical-framework)
-- [Current Status](#-current-status)
-- [Repository Structure](#-repository-structure)
-- [What Has Been Done](#-what-has-been-done)
-- [What Remains to Be Done](#-what-remains-to-be-done)
-- [Applications and Derivative Works](#-applications-and-derivative-works)
-- [References](#-references)
-- [Citation](#-citation)
-- [License](#-license)
-- [Contact](#-contact)
-- [Contributing](#-contributing)
+- [What is the Ryovx Conjecture?](#what-is-the-ryovx-conjecture)
+- [The Map T](#the-map-t)
+- [Statement of the Conjecture](#statement-of-the-conjecture)
+- [Examples](#examples)
+- [Computational Verification](#computational-verification)
+- [Theoretical Framework](#theoretical-framework)
+- [Current Status](#current-status)
+- [Repository Structure](#repository-structure)
+- [What Has Been Done](#what-has-been-done)
+- [What Remains to Be Done](#what-remains-to-be-done)
+- [Applications and Derivative Works](#applications-and-derivative-works)
+- [References](#references)
+- [Citation](#citation)
+- [License](#license)
+- [Contact](#contact)
+- [Contributing](#contributing)
 
 ---
 
@@ -409,9 +409,9 @@ The following are **planned** but **not yet available**:
 
 If you wish to build on the Ryovx Conjecture:
 
-1. **Cite this repository** in your work (see [Citation](#-citation)).
+1. **Cite this repository** in your work (see [Citation](#citation)).
 2. **Acknowledge** that the conjecture remains open.
-3. **Contact the author** (see [Contact](#-contact)) for coordination.
+3. **Contact the author** (see [Contact](#contact)) for coordination.
 4. **Share your results** via issues for inclusion in future updates.
 
 ---
